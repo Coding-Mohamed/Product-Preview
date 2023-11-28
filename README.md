@@ -1,2 +1,2 @@
 # Product Preview 
- responsive product preview card component with only HTML & CSS 
+ Responsive product preview card component with only HTML & CSS 
